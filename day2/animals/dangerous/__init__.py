@@ -1,0 +1,1 @@
+from .animal_kingdom import Mammals, Fishes, Birds
